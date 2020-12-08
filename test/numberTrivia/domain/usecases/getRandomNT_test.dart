@@ -3,7 +3,6 @@ import 'package:number_trivia/core/usecases/usecase.dart';
 import 'package:number_trivia/features/numberTrivia/domain/entities/nuberTrivia.dart';
 import 'package:number_trivia/features/numberTrivia/domain/repository/numberTriviaRepository.dart';
 import 'package:mockito/mockito.dart';
-import 'package:number_trivia/features/numberTrivia/domain/usecases/getConcreteNT.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:number_trivia/features/numberTrivia/domain/usecases/getRandomNT.dart';
 
